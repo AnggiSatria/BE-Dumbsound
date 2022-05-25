@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "sena",
-    "password": "febrisena123",
-    "database": "dumbsound",
+    "username": "root",
+    "password": null,
+    "database": "dumbsound-be",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
